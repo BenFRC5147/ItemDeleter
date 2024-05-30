@@ -1,4 +1,4 @@
-Automatically Cleansup items on a per-GameObject basis, each dropped item will remember the time it was spawned, and every 60 seconds, a coroutine will run that will delete items that have been spawned for longer than configured allowed.
+Automatically Cleans up items on a per-GameObject basis, each dropped item will remember the time it was spawned, and every 60 seconds, a coroutine will run that will delete items that have been spawned for longer than configured allowed.
 
 Default config:
 
